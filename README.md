@@ -1,20 +1,81 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!  
+This portfolio showcases my skills, projects, education, experience, and journey as a Computer Science Engineering student and MERN Stack Developer.
 
-Currently, two official plugins are available:
+## 👨‍💻 About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I am a Computer Science & Engineering student passionate about software development, problem solving, and building real-world web applications.
 
-## React Compiler
+I enjoy working with modern web technologies and continuously improving my skills in Data Structures & Algorithms, Java, React, and MERN Stack development.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌐 Live Portfolio
 
-## Expanding the ESLint configuration
+🔗 [View Live Portfolio](YOUR_LIVE_PORTFOLIO_URL)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Portfolio
->>>>>>> 3cf557c4f30b203372ae33880f49aec5e47364ec
+## ✨ Features
+
+- 👨‍💻 About Me
+- 🎓 Education
+- 💼 Experience
+- 🛠️ Skills & Technologies
+- 🚀 Projects
+- 📊 DSA & Problem Solving
+- 📄 Resume Download
+- 📬 Contact Form
+- 🔗 GitHub & LinkedIn integration
+- 📱 Fully Responsive Design
+- ✨ Modern UI with animations
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- Vite
+- JavaScript
+- Tailwind CSS
+- Framer Motion
+- React Icons
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+
+### Services
+
+- Web3Forms
+- Vercel / Render
+
+## 📂 Project Structure
+
+```text
+portfolio/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Contact.jsx
+│   │   ├── DSA.jsx
+│   │   ├── Education.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Projects.jsx
+│   │   └── Skills.jsx
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+│
+├── .env
+├── .gitignore
+├── package.json
+└── README.md
